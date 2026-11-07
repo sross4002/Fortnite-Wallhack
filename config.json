@@ -1,0 +1,8 @@
+{
+  "wallhack": {
+    "enabled": true,
+    "range": 500,
+    "color": [0, 200, 255, 255],
+    "fade": true
+  }
+}
